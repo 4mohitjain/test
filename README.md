@@ -6,3 +6,6 @@ new edit from local
 edit(2) from remote
 a new line added from local
 i hv a new lne too
+
+
+Lets explore giggle(says local)
